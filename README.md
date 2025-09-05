@@ -3,7 +3,7 @@ This repository contains a collection of custom userscripts designed to enhance 
 All running locally in your browser with tools like Tampermonkey, Greasemonkey, or Violentmonkey.
 
 ###  Black Desert Region Popup Remover
-When you visit Black Desert websites that not your region, for example ( you live in NA but you opened up black desert KR website) you get annoying popup message tells you to switch back to your website region. 
+When you visit a Black Desert website that's not for your region. for example, if you live in NA but open the Korean Black Desert site an annoying popup appears, prompting you to switch back to your regional website.
 
 ###  Bdolytics.com Marketplace: Copy Item Names
 Adds a button to quickly copy item names from the Bdolytics marketplace. Include Pearl item names
