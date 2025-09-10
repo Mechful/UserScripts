@@ -10,5 +10,8 @@ When you visit a Black Desert website that's not for your region. for example, i
 ###  Bdolytics.com Marketplace: Copy Item Names
 Adds a button to quickly copy item names from the Bdolytics marketplace. Include Pearl item names
 This makes it much faster to copy item names and paste them into the in-game marketplace search, instead of typing them out or struggling to select the words directly from the marketplace.
-
 ![firefox_aWzciVOqxh](https://github.com/user-attachments/assets/a4243cd2-dca1-47f9-87a1-f56f1a7cbaa6)
+
+###  Garmoth.com: Favorites Monster Zone AP Caps
+Quickly favorite your Monster Zone AP Caps instead of scrolling all the way down, or pick multiple grind spots across different regions to save them in one place.
+![firefox_IiwXD9YSpg](https://github.com/user-attachments/assets/1e63e4b5-dae1-4ff0-ae4f-3cdb0b065c18)
